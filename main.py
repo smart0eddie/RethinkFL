@@ -21,7 +21,7 @@ from datasets import get_prive_dataset
 from models import get_model
 from utils.training import train
 from utils.best_args import best_args
-from utils.conf import set_random_seed
+from utils.conf import set_random_seed, init_path
 import setproctitle
 
 import torch
@@ -45,6 +45,10 @@ def parse_args():
     parser.add_argument('--structure', type=str, default='homogeneity')
     parser.add_argument('--dataset', type=str, default='fl_officecaltech',  # fl_officecaltech fl_digits
                         choices=DATASET_NAMES, help='Which scenario to perform experiments on.')
+    
+    parser.add_argument('--data_path', type=str, default='./data')
+    parser.add_argument('--base_path', type=str, default='./log')
+    parser.add_argument('--checkpoint_path', type=str, default='./checkpoint')
 
     parser.add_argument('--pri_aug', type=str, default='weak',  # weak strong
                         help='Augmentation for Private Data')
@@ -69,6 +73,9 @@ def parse_args():
 
     if args.seed is not None:
         set_random_seed(args.seed)
+        
+    init_path(args)
+    
     return args
 
 
