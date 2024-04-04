@@ -65,10 +65,13 @@ def train(model: FederatedModel, private_dataset: FederatedDataset,
                 is_ok = True
 
     else:
-        selected_domain_dict = {'mnist': 6, 'usps': 4, 'svhn': 3, 'syn': 7}  # base
-        # selected_domain_dict = {'mnist': 1, 'usps': 1, 'svhn': 9, 'syn': 9}  # 20
-
-        # selected_domain_dict = {'mnist': 3, 'usps': 2, 'svhn': 1, 'syn': 4}  # 10
+        if model.args.dataset == 'fl_officecaltech':
+            selected_domain_dict = { 'caltech10': 3,'amazon': 2,'webcam':1, 'dslr': 4} # paper
+        elif model.args.dataset == 'fl_digits':
+            # selected_domain_dict = {'mnist': 6, 'usps': 4, 'svhn': 3, 'syn': 7}  # base
+            # selected_domain_dict = {'mnist': 1, 'usps': 1, 'svhn': 9, 'syn': 9}  # 20
+            # selected_domain_dict = {'mnist': 3, 'usps': 2, 'svhn': 1, 'syn': 4}  # 10
+            selected_domain_dict = {'mnist': 3, 'usps': 7, 'svhn': 6, 'syn': 4}  # paper
 
         selected_domain_list = []
         for k in selected_domain_dict:
