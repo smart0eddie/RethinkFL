@@ -16,9 +16,9 @@ class ImageFolder_Custom(DatasetFolder):
         self.transform = transform
         self.target_transform = target_transform
         if train:
-            self.imagefolder_obj = ImageFolder(self.root + 'Office_Caltech_10/' + self.data_name + '/', self.transform, self.target_transform)
+            self.imagefolder_obj = ImageFolder(self.root + 'images/' + self.data_name + '/', self.transform, self.target_transform)
         else:
-            self.imagefolder_obj = ImageFolder(self.root + 'Office_Caltech_10/' + self.data_name + '/', self.transform, self.target_transform)
+            self.imagefolder_obj = ImageFolder(self.root + 'images/' + self.data_name + '/', self.transform, self.target_transform)
 
         all_data=self.imagefolder_obj.samples
         self.train_index_list=[]
@@ -56,8 +56,8 @@ class ImageFolder_Custom(DatasetFolder):
 class FedLeaOfficeCaltech(FederatedDataset):
     NAME = 'fl_officecaltech'
     SETTING = 'domain_skew'
-    DOMAINS_LIST = ['caltech', 'amazon','webcam','dslr']
-    percent_dict = { 'caltech': 0.2,'amazon': 0.2,'webcam':0.2, 'dslr': 0.2}
+    DOMAINS_LIST = ['caltech10', 'amazon','webcam','dslr']
+    percent_dict = { 'caltech10': 0.2,'amazon': 0.2,'webcam':0.2, 'dslr': 0.2}
 
     N_SAMPLES_PER_Class = None
     N_CLASS = 10
