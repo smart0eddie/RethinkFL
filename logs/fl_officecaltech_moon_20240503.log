@@ -1,0 +1,203 @@
+moon_10_fl_officecaltech_100_10
+{'caltech10': 3, 'dslr': 4, 'amazon': 2, 'webcam': 1}
+['caltech10', 'dslr', 'amazon', 'caltech10', 'dslr', 'dslr', 'caltech10', 'amazon', 'webcam', 'dslr']
+The 0 Communcation Accuracy: 21.438 Method: moon
+[23.66, 28.42, 10.34, 23.33]
+The 1 Communcation Accuracy: 32.125 Method: moon
+[37.95, 41.58, 18.97, 30.0]
+The 2 Communcation Accuracy: 35.963 Method: moon
+[41.07, 48.42, 31.03, 23.33]
+The 3 Communcation Accuracy: 38.78 Method: moon
+[41.52, 55.79, 34.48, 23.33]
+The 4 Communcation Accuracy: 38.855 Method: moon
+[41.96, 57.37, 32.76, 23.33]
+The 5 Communcation Accuracy: 46.895 Method: moon
+[48.66, 64.21, 41.38, 33.33]
+The 6 Communcation Accuracy: 42.82 Method: moon
+[49.11, 62.63, 36.21, 23.33]
+The 7 Communcation Accuracy: 44.608 Method: moon
+[48.66, 60.0, 43.1, 26.67]
+The 8 Communcation Accuracy: 45.15 Method: moon
+[51.79, 64.21, 37.93, 26.67]
+The 9 Communcation Accuracy: 41.462 Method: moon
+[48.21, 63.16, 34.48, 20.0]
+The 10 Communcation Accuracy: 45.332 Method: moon
+[50.45, 67.89, 39.66, 23.33]
+The 11 Communcation Accuracy: 46.76 Method: moon
+[51.34, 67.89, 34.48, 33.33]
+The 12 Communcation Accuracy: 43.075 Method: moon
+[49.11, 65.26, 37.93, 20.0]
+The 13 Communcation Accuracy: 46.098 Method: moon
+[51.79, 67.89, 41.38, 23.33]
+The 14 Communcation Accuracy: 47.45 Method: moon
+[53.57, 68.42, 34.48, 33.33]
+The 15 Communcation Accuracy: 45.76 Method: moon
+[52.68, 67.37, 39.66, 23.33]
+The 16 Communcation Accuracy: 43.88 Method: moon
+[54.46, 68.42, 29.31, 23.33]
+The 17 Communcation Accuracy: 45.432 Method: moon
+[53.57, 63.68, 34.48, 30.0]
+The 18 Communcation Accuracy: 44.52 Method: moon
+[56.7, 63.68, 31.03, 26.67]
+The 19 Communcation Accuracy: 48.862 Method: moon
+[53.57, 65.79, 32.76, 43.33]
+The 20 Communcation Accuracy: 43.692 Method: moon
+[51.34, 68.95, 34.48, 20.0]
+The 21 Communcation Accuracy: 47.942 Method: moon
+[54.91, 70.53, 39.66, 26.67]
+The 22 Communcation Accuracy: 49.068 Method: moon
+[58.48, 71.58, 36.21, 30.0]
+The 23 Communcation Accuracy: 45.108 Method: moon
+[50.45, 68.95, 31.03, 30.0]
+The 24 Communcation Accuracy: 45.31 Method: moon
+[53.57, 71.58, 32.76, 23.33]
+The 25 Communcation Accuracy: 47.155 Method: moon
+[56.25, 67.89, 34.48, 30.0]
+The 26 Communcation Accuracy: 49.933 Method: moon
+[55.36, 66.32, 41.38, 36.67]
+The 27 Communcation Accuracy: 46.648 Method: moon
+[56.7, 63.68, 36.21, 30.0]
+The 28 Communcation Accuracy: 47.528 Method: moon
+[55.36, 72.11, 29.31, 33.33]
+The 29 Communcation Accuracy: 49.845 Method: moon
+[55.8, 67.37, 36.21, 40.0]
+The 30 Communcation Accuracy: 46.858 Method: moon
+[56.7, 69.47, 37.93, 23.33]
+The 31 Communcation Accuracy: 48.3 Method: moon
+[55.8, 69.47, 37.93, 30.0]
+The 32 Communcation Accuracy: 47.682 Method: moon
+[57.59, 72.11, 31.03, 30.0]
+The 33 Communcation Accuracy: 47.355 Method: moon
+[56.25, 66.84, 39.66, 26.67]
+The 34 Communcation Accuracy: 44.573 Method: moon
+[55.36, 66.84, 32.76, 23.33]
+The 35 Communcation Accuracy: 48.565 Method: moon
+[55.8, 70.53, 37.93, 30.0]
+The 36 Communcation Accuracy: 53.427 Method: moon
+[56.25, 72.63, 44.83, 40.0]
+The 37 Communcation Accuracy: 47.163 Method: moon
+[58.93, 66.84, 36.21, 26.67]
+The 38 Communcation Accuracy: 48.972 Method: moon
+[58.04, 68.42, 32.76, 36.67]
+The 39 Communcation Accuracy: 49.75 Method: moon
+[56.25, 66.32, 43.1, 33.33]
+The 40 Communcation Accuracy: 50.773 Method: moon
+[55.8, 65.79, 44.83, 36.67]
+The 41 Communcation Accuracy: 42.68 Method: moon
+[52.68, 63.68, 31.03, 23.33]
+The 42 Communcation Accuracy: 49.65 Method: moon
+[56.25, 69.47, 36.21, 36.67]
+The 43 Communcation Accuracy: 48.622 Method: moon
+[54.46, 68.42, 48.28, 23.33]
+The 44 Communcation Accuracy: 46.82 Method: moon
+[54.02, 72.11, 34.48, 26.67]
+The 45 Communcation Accuracy: 46.317 Method: moon
+[54.91, 71.05, 29.31, 30.0]
+The 46 Communcation Accuracy: 48.515 Method: moon
+[54.91, 67.89, 37.93, 33.33]
+The 47 Communcation Accuracy: 48.72 Method: moon
+[55.8, 66.32, 32.76, 40.0]
+The 48 Communcation Accuracy: 48.837 Method: moon
+[54.91, 72.63, 34.48, 33.33]
+The 49 Communcation Accuracy: 48.477 Method: moon
+[53.12, 72.63, 44.83, 23.33]
+The 50 Communcation Accuracy: 47.885 Method: moon
+[55.36, 71.58, 37.93, 26.67]
+The 51 Communcation Accuracy: 51.88 Method: moon
+[56.7, 71.05, 43.1, 36.67]
+The 52 Communcation Accuracy: 48.41 Method: moon
+[56.7, 65.79, 34.48, 36.67]
+The 53 Communcation Accuracy: 48.642 Method: moon
+[57.14, 67.89, 36.21, 33.33]
+The 54 Communcation Accuracy: 46.655 Method: moon
+[56.7, 72.11, 34.48, 23.33]
+The 55 Communcation Accuracy: 51.09 Method: moon
+[53.12, 71.58, 39.66, 40.0]
+The 56 Communcation Accuracy: 49.915 Method: moon
+[58.93, 69.47, 37.93, 33.33]
+The 57 Communcation Accuracy: 54.702 Method: moon
+[55.36, 70.0, 53.45, 40.0]
+The 58 Communcation Accuracy: 50.968 Method: moon
+[58.93, 73.68, 37.93, 33.33]
+The 59 Communcation Accuracy: 46.52 Method: moon
+[57.59, 68.95, 36.21, 23.33]
+The 60 Communcation Accuracy: 48.472 Method: moon
+[56.25, 73.16, 34.48, 30.0]
+The 61 Communcation Accuracy: 52.222 Method: moon
+[58.04, 69.47, 41.38, 40.0]
+The 62 Communcation Accuracy: 51.27 Method: moon
+[58.93, 73.16, 39.66, 33.33]
+The 63 Communcation Accuracy: 52.392 Method: moon
+[56.7, 66.32, 46.55, 40.0]
+The 64 Communcation Accuracy: 51.172 Method: moon
+[56.25, 72.11, 39.66, 36.67]
+The 65 Communcation Accuracy: 50.748 Method: moon
+[56.7, 71.58, 41.38, 33.33]
+The 66 Communcation Accuracy: 48.288 Method: moon
+[55.8, 76.32, 31.03, 30.0]
+The 67 Communcation Accuracy: 52.415 Method: moon
+[56.7, 71.58, 41.38, 40.0]
+The 68 Communcation Accuracy: 53.265 Method: moon
+[58.93, 72.63, 44.83, 36.67]
+The 69 Communcation Accuracy: 53.935 Method: moon
+[58.04, 76.32, 41.38, 40.0]
+The 70 Communcation Accuracy: 52.183 Method: moon
+[56.7, 70.53, 44.83, 36.67]
+The 71 Communcation Accuracy: 50.72 Method: moon
+[55.36, 69.47, 41.38, 36.67]
+The 72 Communcation Accuracy: 50.573 Method: moon
+[56.25, 73.16, 36.21, 36.67]
+The 73 Communcation Accuracy: 55.223 Method: moon
+[58.93, 73.68, 48.28, 40.0]
+The 74 Communcation Accuracy: 53.493 Method: moon
+[57.59, 76.84, 36.21, 43.33]
+The 75 Communcation Accuracy: 48.978 Method: moon
+[56.25, 70.0, 39.66, 30.0]
+The 76 Communcation Accuracy: 52.545 Method: moon
+[58.04, 70.53, 48.28, 33.33]
+The 77 Communcation Accuracy: 49.037 Method: moon
+[56.7, 64.74, 41.38, 33.33]
+The 78 Communcation Accuracy: 53.905 Method: moon
+[58.48, 67.37, 43.1, 46.67]
+The 79 Communcation Accuracy: 52.42 Method: moon
+[58.04, 68.42, 46.55, 36.67]
+The 80 Communcation Accuracy: 50.265 Method: moon
+[59.82, 71.58, 39.66, 30.0]
+The 81 Communcation Accuracy: 49.572 Method: moon
+[57.14, 66.32, 44.83, 30.0]
+The 82 Communcation Accuracy: 50.375 Method: moon
+[54.02, 71.05, 43.1, 33.33]
+The 83 Communcation Accuracy: 49.52 Method: moon
+[55.36, 67.89, 44.83, 30.0]
+The 84 Communcation Accuracy: 47.27 Method: moon
+[57.59, 73.68, 34.48, 23.33]
+The 85 Communcation Accuracy: 48.248 Method: moon
+[54.91, 68.42, 39.66, 30.0]
+The 86 Communcation Accuracy: 49.438 Method: moon
+[57.59, 72.11, 41.38, 26.67]
+The 87 Communcation Accuracy: 49.245 Method: moon
+[57.59, 67.89, 44.83, 26.67]
+The 88 Communcation Accuracy: 49.505 Method: moon
+[56.25, 72.11, 39.66, 30.0]
+The 89 Communcation Accuracy: 48.95 Method: moon
+[58.04, 73.16, 37.93, 26.67]
+The 90 Communcation Accuracy: 49.665 Method: moon
+[57.59, 74.74, 39.66, 26.67]
+The 91 Communcation Accuracy: 49.912 Method: moon
+[58.04, 73.68, 37.93, 30.0]
+The 92 Communcation Accuracy: 51.198 Method: moon
+[56.25, 72.11, 43.1, 33.33]
+The 93 Communcation Accuracy: 52.848 Method: moon
+[57.14, 76.32, 37.93, 40.0]
+The 94 Communcation Accuracy: 49.36 Method: moon
+[57.14, 70.53, 43.1, 26.67]
+The 95 Communcation Accuracy: 48.633 Method: moon
+[56.25, 73.68, 37.93, 26.67]
+The 96 Communcation Accuracy: 49.618 Method: moon
+[60.71, 73.16, 37.93, 26.67]
+The 97 Communcation Accuracy: 51.225 Method: moon
+[57.59, 74.21, 43.1, 30.0]
+The 98 Communcation Accuracy: 51.922 Method: moon
+[59.82, 73.16, 41.38, 33.33]
+The 99 Communcation Accuracy: 51.957 Method: moon
+[59.82, 71.58, 43.1, 33.33]

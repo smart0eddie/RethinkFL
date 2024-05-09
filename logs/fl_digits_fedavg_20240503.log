@@ -1,0 +1,204 @@
+fedavg_20_fl_digits_100_10
+{'mnist': 6, 'syn': 7, 'usps': 4, 'svhn': 3}
+['mnist' 'syn' 'usps' 'mnist' 'syn' 'syn' 'syn' 'syn' 'usps' 'syn' 'usps'
+ 'svhn' 'mnist' 'syn' 'svhn' 'mnist' 'mnist' 'mnist' 'svhn' 'usps']
+The 0 Communcation Accuracy: 13.442 Method: fedavg
+[11.35, 13.15, 19.47, 9.8]
+The 1 Communcation Accuracy: 25.885 Method: fedavg
+[36.0, 30.89, 23.62, 13.03]
+The 2 Communcation Accuracy: 34.015 Method: fedavg
+[48.17, 53.86, 20.95, 13.08]
+The 3 Communcation Accuracy: 44.637 Method: fedavg
+[69.23, 56.4, 37.45, 15.47]
+The 4 Communcation Accuracy: 54.29 Method: fedavg
+[85.36, 70.2, 42.55, 19.05]
+The 5 Communcation Accuracy: 58.34 Method: fedavg
+[87.6, 75.39, 50.07, 20.3]
+The 6 Communcation Accuracy: 64.38 Method: fedavg
+[91.85, 83.61, 58.28, 23.78]
+The 7 Communcation Accuracy: 67.488 Method: fedavg
+[94.29, 84.7, 61.56, 29.4]
+The 8 Communcation Accuracy: 68.83 Method: fedavg
+[95.61, 86.3, 64.21, 29.2]
+The 9 Communcation Accuracy: 70.512 Method: fedavg
+[95.57, 87.49, 68.19, 30.8]
+The 10 Communcation Accuracy: 71.448 Method: fedavg
+[96.09, 86.25, 70.56, 32.89]
+The 11 Communcation Accuracy: 72.588 Method: fedavg
+[95.95, 87.99, 72.03, 34.38]
+The 12 Communcation Accuracy: 73.137 Method: fedavg
+[96.83, 88.69, 72.9, 34.13]
+The 13 Communcation Accuracy: 73.115 Method: fedavg
+[96.98, 89.14, 71.02, 35.32]
+The 14 Communcation Accuracy: 74.178 Method: fedavg
+[96.59, 89.74, 74.26, 36.12]
+The 15 Communcation Accuracy: 73.962 Method: fedavg
+[97.27, 89.59, 73.22, 35.77]
+The 16 Communcation Accuracy: 74.752 Method: fedavg
+[97.36, 89.19, 74.95, 37.51]
+The 17 Communcation Accuracy: 74.648 Method: fedavg
+[97.31, 88.64, 75.77, 36.87]
+The 18 Communcation Accuracy: 74.838 Method: fedavg
+[97.25, 88.29, 76.7, 37.11]
+The 19 Communcation Accuracy: 75.843 Method: fedavg
+[97.63, 88.29, 76.9, 40.55]
+The 20 Communcation Accuracy: 75.428 Method: fedavg
+[97.46, 88.14, 78.15, 37.96]
+The 21 Communcation Accuracy: 76.398 Method: fedavg
+[97.62, 89.49, 77.98, 40.5]
+The 22 Communcation Accuracy: 76.562 Method: fedavg
+[97.34, 88.09, 80.32, 40.5]
+The 23 Communcation Accuracy: 76.74 Method: fedavg
+[97.78, 88.69, 78.35, 42.14]
+The 24 Communcation Accuracy: 76.62 Method: fedavg
+[97.69, 89.29, 78.75, 40.75]
+The 25 Communcation Accuracy: 75.75 Method: fedavg
+[97.77, 89.24, 77.23, 38.76]
+The 26 Communcation Accuracy: 76.532 Method: fedavg
+[97.85, 89.04, 79.04, 40.2]
+The 27 Communcation Accuracy: 77.342 Method: fedavg
+[97.9, 88.89, 80.14, 42.44]
+The 28 Communcation Accuracy: 77.108 Method: fedavg
+[97.69, 87.89, 78.67, 44.18]
+The 29 Communcation Accuracy: 76.93 Method: fedavg
+[97.54, 89.24, 77.81, 43.13]
+The 30 Communcation Accuracy: 77.1 Method: fedavg
+[97.76, 88.94, 78.81, 42.89]
+The 31 Communcation Accuracy: 77.75 Method: fedavg
+[97.78, 89.14, 79.85, 44.23]
+The 32 Communcation Accuracy: 77.058 Method: fedavg
+[97.69, 88.74, 78.91, 42.89]
+The 33 Communcation Accuracy: 77.365 Method: fedavg
+[97.57, 88.84, 79.17, 43.88]
+The 34 Communcation Accuracy: 77.498 Method: fedavg
+[97.84, 87.79, 79.63, 44.73]
+The 35 Communcation Accuracy: 77.952 Method: fedavg
+[97.71, 89.44, 80.08, 44.58]
+The 36 Communcation Accuracy: 77.642 Method: fedavg
+[98.02, 89.74, 78.38, 44.43]
+The 37 Communcation Accuracy: 77.31 Method: fedavg
+[97.76, 87.44, 79.51, 44.53]
+The 38 Communcation Accuracy: 78.328 Method: fedavg
+[98.04, 89.39, 79.46, 46.42]
+The 39 Communcation Accuracy: 78.46 Method: fedavg
+[98.05, 89.49, 79.38, 46.92]
+The 40 Communcation Accuracy: 78.102 Method: fedavg
+[97.94, 89.39, 78.71, 46.37]
+The 41 Communcation Accuracy: 77.908 Method: fedavg
+[97.89, 88.94, 79.18, 45.62]
+The 42 Communcation Accuracy: 78.24 Method: fedavg
+[98.1, 88.54, 78.46, 47.86]
+The 43 Communcation Accuracy: 78.615 Method: fedavg
+[98.0, 88.79, 79.01, 48.66]
+The 44 Communcation Accuracy: 78.562 Method: fedavg
+[97.95, 88.94, 79.35, 48.01]
+The 45 Communcation Accuracy: 78.748 Method: fedavg
+[98.0, 90.33, 79.74, 46.92]
+The 46 Communcation Accuracy: 79.048 Method: fedavg
+[98.11, 88.64, 80.34, 49.1]
+The 47 Communcation Accuracy: 78.447 Method: fedavg
+[98.13, 88.49, 79.66, 47.51]
+The 48 Communcation Accuracy: 78.325 Method: fedavg
+[98.06, 89.49, 79.33, 46.42]
+The 49 Communcation Accuracy: 79.03 Method: fedavg
+[98.0, 89.74, 79.38, 49.0]
+The 50 Communcation Accuracy: 78.445 Method: fedavg
+[98.05, 89.59, 78.73, 47.41]
+The 51 Communcation Accuracy: 78.607 Method: fedavg
+[98.02, 89.04, 78.46, 48.91]
+The 52 Communcation Accuracy: 78.978 Method: fedavg
+[97.97, 90.08, 78.86, 49.0]
+The 53 Communcation Accuracy: 78.282 Method: fedavg
+[98.01, 89.74, 77.47, 47.91]
+The 54 Communcation Accuracy: 77.97 Method: fedavg
+[98.24, 88.74, 77.24, 47.66]
+The 55 Communcation Accuracy: 78.712 Method: fedavg
+[98.08, 90.13, 79.08, 47.56]
+The 56 Communcation Accuracy: 79.102 Method: fedavg
+[97.96, 89.54, 78.36, 50.55]
+The 57 Communcation Accuracy: 79.358 Method: fedavg
+[98.06, 91.18, 78.49, 49.7]
+The 58 Communcation Accuracy: 78.908 Method: fedavg
+[98.17, 90.03, 76.83, 50.6]
+The 59 Communcation Accuracy: 78.792 Method: fedavg
+[98.23, 89.29, 77.85, 49.8]
+The 60 Communcation Accuracy: 79.4 Method: fedavg
+[98.22, 89.84, 79.29, 50.25]
+The 61 Communcation Accuracy: 79.38 Method: fedavg
+[98.14, 89.84, 77.85, 51.69]
+The 62 Communcation Accuracy: 79.685 Method: fedavg
+[98.22, 89.44, 78.0, 53.08]
+The 63 Communcation Accuracy: 79.852 Method: fedavg
+[98.21, 89.04, 78.18, 53.98]
+The 64 Communcation Accuracy: 79.28 Method: fedavg
+[98.09, 89.89, 77.1, 52.04]
+The 65 Communcation Accuracy: 79.0 Method: fedavg
+[98.18, 88.94, 77.04, 51.84]
+The 66 Communcation Accuracy: 78.988 Method: fedavg
+[98.18, 89.29, 77.39, 51.09]
+The 67 Communcation Accuracy: 79.392 Method: fedavg
+[98.11, 90.08, 76.39, 52.99]
+The 68 Communcation Accuracy: 79.773 Method: fedavg
+[98.1, 89.14, 78.62, 53.23]
+The 69 Communcation Accuracy: 79.592 Method: fedavg
+[98.12, 88.49, 78.13, 53.63]
+The 70 Communcation Accuracy: 80.512 Method: fedavg
+[98.06, 89.34, 78.98, 55.67]
+The 71 Communcation Accuracy: 80.208 Method: fedavg
+[98.05, 90.18, 78.22, 54.38]
+The 72 Communcation Accuracy: 79.605 Method: fedavg
+[98.15, 89.24, 76.95, 54.08]
+The 73 Communcation Accuracy: 79.69 Method: fedavg
+[98.03, 88.74, 77.26, 54.73]
+The 74 Communcation Accuracy: 79.682 Method: fedavg
+[98.1, 89.34, 77.46, 53.83]
+The 75 Communcation Accuracy: 80.172 Method: fedavg
+[98.27, 89.64, 78.1, 54.68]
+The 76 Communcation Accuracy: 79.76 Method: fedavg
+[98.21, 89.19, 76.86, 54.78]
+The 77 Communcation Accuracy: 79.548 Method: fedavg
+[98.22, 90.03, 75.61, 54.33]
+The 78 Communcation Accuracy: 79.782 Method: fedavg
+[98.2, 91.33, 76.52, 53.08]
+The 79 Communcation Accuracy: 79.34 Method: fedavg
+[97.91, 88.09, 79.22, 52.14]
+The 80 Communcation Accuracy: 79.665 Method: fedavg
+[98.04, 88.19, 77.6, 54.83]
+The 81 Communcation Accuracy: 80.365 Method: fedavg
+[98.17, 90.33, 78.28, 54.68]
+The 82 Communcation Accuracy: 80.163 Method: fedavg
+[98.25, 89.74, 78.93, 53.73]
+The 83 Communcation Accuracy: 80.998 Method: fedavg
+[98.1, 89.74, 78.99, 57.16]
+The 84 Communcation Accuracy: 79.71 Method: fedavg
+[98.24, 90.33, 76.89, 53.38]
+The 85 Communcation Accuracy: 79.97 Method: fedavg
+[98.17, 90.38, 78.74, 52.59]
+The 86 Communcation Accuracy: 80.18 Method: fedavg
+[98.19, 90.78, 77.62, 54.13]
+The 87 Communcation Accuracy: 80.048 Method: fedavg
+[98.1, 88.54, 78.13, 55.42]
+The 88 Communcation Accuracy: 80.102 Method: fedavg
+[98.07, 89.84, 77.72, 54.78]
+The 89 Communcation Accuracy: 80.02 Method: fedavg
+[98.14, 89.34, 77.08, 55.52]
+The 90 Communcation Accuracy: 80.31 Method: fedavg
+[98.16, 89.49, 77.42, 56.17]
+The 91 Communcation Accuracy: 80.28 Method: fedavg
+[98.15, 88.99, 78.11, 55.87]
+The 92 Communcation Accuracy: 80.465 Method: fedavg
+[98.12, 89.74, 77.53, 56.47]
+The 93 Communcation Accuracy: 79.965 Method: fedavg
+[98.16, 90.88, 77.79, 53.03]
+The 94 Communcation Accuracy: 80.023 Method: fedavg
+[98.24, 90.43, 76.54, 54.88]
+The 95 Communcation Accuracy: 80.038 Method: fedavg
+[98.22, 89.49, 77.32, 55.12]
+The 96 Communcation Accuracy: 80.035 Method: fedavg
+[98.03, 89.79, 77.39, 54.93]
+The 97 Communcation Accuracy: 79.962 Method: fedavg
+[98.27, 88.69, 76.82, 56.07]
+The 98 Communcation Accuracy: 79.92 Method: fedavg
+[98.23, 90.73, 76.59, 54.13]
+The 99 Communcation Accuracy: 79.808 Method: fedavg
+[98.1, 89.49, 76.91, 54.73]

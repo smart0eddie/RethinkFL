@@ -1,0 +1,208 @@
+fedprox_20_fl_digits_100_10
+{'mnist': 6, 'syn': 7, 'usps': 4, 'svhn': 3}
+['mnist' 'syn' 'usps' 'mnist' 'syn' 'syn' 'syn' 'syn' 'usps' 'syn' 'usps'
+ 'svhn' 'mnist' 'syn' 'svhn' 'mnist' 'mnist' 'mnist' 'svhn' 'usps']
+Using downloaded and verified file: D:/Users/CYChiou/LargeData/Work/Dataset/DomainAdaption/FL_Digits/train_32x32.mat
+Using downloaded and verified file: D:/Users/CYChiou/LargeData/Work/Dataset/DomainAdaption/FL_Digits/train_32x32.mat
+Using downloaded and verified file: D:/Users/CYChiou/LargeData/Work/Dataset/DomainAdaption/FL_Digits/train_32x32.mat
+Using downloaded and verified file: D:/Users/CYChiou/LargeData/Work/Dataset/DomainAdaption/FL_Digits/test_32x32.mat
+The 0 Communcation Accuracy: 13.615 Method: fedprox
+[11.54, 13.15, 19.57, 10.2]
+The 1 Communcation Accuracy: 25.382 Method: fedprox
+[33.79, 32.24, 24.16, 11.34]
+The 2 Communcation Accuracy: 35.495 Method: fedprox
+[56.35, 55.16, 17.39, 13.08]
+The 3 Communcation Accuracy: 45.1 Method: fedprox
+[70.86, 60.89, 33.58, 15.07]
+The 4 Communcation Accuracy: 53.902 Method: fedprox
+[83.8, 75.49, 37.07, 19.25]
+The 5 Communcation Accuracy: 58.772 Method: fedprox
+[86.07, 75.93, 53.04, 20.05]
+The 6 Communcation Accuracy: 63.7 Method: fedprox
+[91.88, 82.81, 55.68, 24.43]
+The 7 Communcation Accuracy: 66.45 Method: fedprox
+[94.25, 85.95, 61.27, 24.33]
+The 8 Communcation Accuracy: 69.138 Method: fedprox
+[95.07, 87.34, 65.33, 28.81]
+The 9 Communcation Accuracy: 69.85 Method: fedprox
+[95.63, 86.65, 66.32, 30.8]
+The 10 Communcation Accuracy: 72.062 Method: fedprox
+[96.68, 87.89, 71.44, 32.24]
+The 11 Communcation Accuracy: 71.122 Method: fedprox
+[95.92, 87.05, 69.93, 31.59]
+The 12 Communcation Accuracy: 72.438 Method: fedprox
+[96.2, 88.84, 71.28, 33.43]
+The 13 Communcation Accuracy: 73.3 Method: fedprox
+[96.88, 89.34, 72.25, 34.73]
+The 14 Communcation Accuracy: 73.605 Method: fedprox
+[96.65, 88.69, 74.35, 34.73]
+The 15 Communcation Accuracy: 74.712 Method: fedprox
+[96.95, 87.99, 76.25, 37.66]
+The 16 Communcation Accuracy: 74.815 Method: fedprox
+[97.1, 88.84, 76.21, 37.11]
+The 17 Communcation Accuracy: 75.212 Method: fedprox
+[97.57, 89.04, 76.28, 37.96]
+The 18 Communcation Accuracy: 75.652 Method: fedprox
+[97.17, 89.19, 77.2, 39.05]
+The 19 Communcation Accuracy: 75.31 Method: fedprox
+[97.39, 89.09, 76.4, 38.36]
+The 20 Communcation Accuracy: 75.678 Method: fedprox
+[97.35, 89.94, 76.66, 38.76]
+The 21 Communcation Accuracy: 76.333 Method: fedprox
+[97.26, 90.53, 77.69, 39.85]
+The 22 Communcation Accuracy: 76.148 Method: fedprox
+[97.48, 89.79, 77.22, 40.1]
+The 23 Communcation Accuracy: 76.925 Method: fedprox
+[97.64, 90.03, 78.19, 41.84]
+The 24 Communcation Accuracy: 76.852 Method: fedprox
+[97.46, 90.43, 77.98, 41.54]
+The 25 Communcation Accuracy: 76.602 Method: fedprox
+[97.75, 90.18, 78.08, 40.4]
+The 26 Communcation Accuracy: 76.215 Method: fedprox
+[97.81, 89.69, 76.41, 40.95]
+The 27 Communcation Accuracy: 77.192 Method: fedprox
+[97.55, 89.74, 78.79, 42.69]
+The 28 Communcation Accuracy: 77.168 Method: fedprox
+[97.74, 89.49, 78.75, 42.69]
+The 29 Communcation Accuracy: 77.528 Method: fedprox
+[97.78, 90.18, 78.47, 43.68]
+The 30 Communcation Accuracy: 77.208 Method: fedprox
+[97.78, 90.38, 78.38, 42.29]
+The 31 Communcation Accuracy: 77.785 Method: fedprox
+[97.85, 90.03, 79.68, 43.58]
+The 32 Communcation Accuracy: 77.592 Method: fedprox
+[97.67, 91.08, 78.83, 42.79]
+The 33 Communcation Accuracy: 77.872 Method: fedprox
+[97.65, 90.13, 79.43, 44.28]
+The 34 Communcation Accuracy: 77.288 Method: fedprox
+[97.95, 90.63, 78.43, 42.14]
+The 35 Communcation Accuracy: 77.355 Method: fedprox
+[97.98, 90.03, 79.17, 42.24]
+The 36 Communcation Accuracy: 77.785 Method: fedprox
+[98.09, 90.13, 78.74, 44.18]
+The 37 Communcation Accuracy: 78.452 Method: fedprox
+[97.82, 89.94, 80.13, 45.92]
+The 38 Communcation Accuracy: 78.87 Method: fedprox
+[98.1, 89.64, 79.88, 47.86]
+The 39 Communcation Accuracy: 79.08 Method: fedprox
+[98.07, 90.73, 79.81, 47.71]
+The 40 Communcation Accuracy: 79.225 Method: fedprox
+[97.92, 90.78, 80.54, 47.66]
+The 41 Communcation Accuracy: 78.89 Method: fedprox
+[98.01, 90.98, 79.85, 46.72]
+The 42 Communcation Accuracy: 78.122 Method: fedprox
+[98.12, 91.23, 78.76, 44.38]
+The 43 Communcation Accuracy: 79.242 Method: fedprox
+[98.16, 90.88, 79.62, 48.31]
+The 44 Communcation Accuracy: 79.12 Method: fedprox
+[98.08, 90.58, 79.36, 48.46]
+The 45 Communcation Accuracy: 78.96 Method: fedprox
+[98.09, 89.74, 80.35, 47.66]
+The 46 Communcation Accuracy: 78.482 Method: fedprox
+[98.2, 89.59, 80.02, 46.12]
+The 47 Communcation Accuracy: 79.13 Method: fedprox
+[98.08, 90.78, 79.85, 47.81]
+The 48 Communcation Accuracy: 79.607 Method: fedprox
+[98.03, 90.38, 79.87, 50.15]
+The 49 Communcation Accuracy: 79.48 Method: fedprox
+[97.88, 90.33, 79.66, 50.05]
+The 50 Communcation Accuracy: 78.975 Method: fedprox
+[98.11, 90.23, 79.2, 48.36]
+The 51 Communcation Accuracy: 79.053 Method: fedprox
+[97.89, 90.78, 79.63, 47.91]
+The 52 Communcation Accuracy: 80.183 Method: fedprox
+[98.11, 90.68, 80.4, 51.54]
+The 53 Communcation Accuracy: 79.758 Method: fedprox
+[98.26, 90.78, 80.49, 49.5]
+The 54 Communcation Accuracy: 79.355 Method: fedprox
+[98.19, 91.53, 79.54, 48.16]
+The 55 Communcation Accuracy: 79.5 Method: fedprox
+[98.2, 90.68, 80.02, 49.1]
+The 56 Communcation Accuracy: 80.005 Method: fedprox
+[98.07, 90.18, 79.58, 52.19]
+The 57 Communcation Accuracy: 80.068 Method: fedprox
+[98.03, 91.18, 80.26, 50.8]
+The 58 Communcation Accuracy: 79.58 Method: fedprox
+[97.95, 90.73, 80.59, 49.05]
+The 59 Communcation Accuracy: 80.217 Method: fedprox
+[98.08, 90.88, 80.22, 51.69]
+The 60 Communcation Accuracy: 79.895 Method: fedprox
+[98.34, 91.28, 79.71, 50.25]
+The 61 Communcation Accuracy: 79.625 Method: fedprox
+[98.08, 91.63, 79.59, 49.2]
+The 62 Communcation Accuracy: 79.38 Method: fedprox
+[98.04, 91.73, 78.75, 49.0]
+The 63 Communcation Accuracy: 79.868 Method: fedprox
+[98.2, 90.98, 79.99, 50.3]
+The 64 Communcation Accuracy: 80.52 Method: fedprox
+[98.18, 91.48, 79.73, 52.69]
+The 65 Communcation Accuracy: 80.585 Method: fedprox
+[98.27, 91.18, 79.86, 53.03]
+The 66 Communcation Accuracy: 80.445 Method: fedprox
+[98.08, 91.53, 79.73, 52.44]
+The 67 Communcation Accuracy: 79.902 Method: fedprox
+[98.24, 91.68, 80.09, 49.6]
+The 68 Communcation Accuracy: 80.068 Method: fedprox
+[98.24, 91.48, 80.05, 50.5]
+The 69 Communcation Accuracy: 80.087 Method: fedprox
+[98.2, 91.58, 79.87, 50.7]
+The 70 Communcation Accuracy: 80.36 Method: fedprox
+[98.23, 91.38, 80.54, 51.29]
+The 71 Communcation Accuracy: 79.952 Method: fedprox
+[98.1, 91.68, 80.23, 49.8]
+The 72 Communcation Accuracy: 79.62 Method: fedprox
+[98.17, 91.18, 79.43, 49.7]
+The 73 Communcation Accuracy: 80.352 Method: fedprox
+[98.26, 91.43, 80.03, 51.69]
+The 74 Communcation Accuracy: 80.513 Method: fedprox
+[98.18, 91.63, 80.4, 51.84]
+The 75 Communcation Accuracy: 80.04 Method: fedprox
+[98.21, 91.68, 79.57, 50.7]
+The 76 Communcation Accuracy: 80.068 Method: fedprox
+[98.17, 91.63, 80.02, 50.45]
+The 77 Communcation Accuracy: 80.665 Method: fedprox
+[98.28, 91.68, 80.31, 52.39]
+The 78 Communcation Accuracy: 80.65 Method: fedprox
+[98.11, 91.78, 79.97, 52.74]
+The 79 Communcation Accuracy: 80.392 Method: fedprox
+[98.21, 91.88, 79.39, 52.09]
+The 80 Communcation Accuracy: 80.888 Method: fedprox
+[98.08, 91.53, 81.0, 52.94]
+The 81 Communcation Accuracy: 80.348 Method: fedprox
+[98.08, 91.53, 80.24, 51.54]
+The 82 Communcation Accuracy: 79.468 Method: fedprox
+[98.11, 91.08, 79.03, 49.65]
+The 83 Communcation Accuracy: 80.532 Method: fedprox
+[98.14, 91.63, 79.67, 52.69]
+The 84 Communcation Accuracy: 79.708 Method: fedprox
+[98.14, 91.83, 78.16, 50.7]
+The 85 Communcation Accuracy: 80.738 Method: fedprox
+[98.1, 91.83, 80.03, 52.99]
+The 86 Communcation Accuracy: 80.578 Method: fedprox
+[98.2, 92.08, 80.04, 51.99]
+The 87 Communcation Accuracy: 80.938 Method: fedprox
+[98.23, 91.83, 80.11, 53.58]
+The 88 Communcation Accuracy: 80.425 Method: fedprox
+[98.19, 91.73, 79.74, 52.04]
+The 89 Communcation Accuracy: 80.238 Method: fedprox
+[98.17, 90.93, 79.51, 52.34]
+The 90 Communcation Accuracy: 80.302 Method: fedprox
+[98.25, 90.83, 80.44, 51.69]
+The 91 Communcation Accuracy: 80.202 Method: fedprox
+[98.25, 92.58, 79.63, 50.35]
+The 92 Communcation Accuracy: 81.035 Method: fedprox
+[98.17, 91.73, 80.26, 53.98]
+The 93 Communcation Accuracy: 81.26 Method: fedprox
+[98.17, 91.63, 79.97, 55.27]
+The 94 Communcation Accuracy: 80.645 Method: fedprox
+[98.27, 92.13, 79.49, 52.69]
+The 95 Communcation Accuracy: 80.65 Method: fedprox
+[98.28, 92.03, 79.95, 52.34]
+The 96 Communcation Accuracy: 79.84 Method: fedprox
+[97.99, 92.28, 79.54, 49.55]
+The 97 Communcation Accuracy: 80.058 Method: fedprox
+[98.3, 92.38, 78.36, 51.19]
+The 98 Communcation Accuracy: 80.498 Method: fedprox
+[98.24, 92.08, 79.53, 52.14]
+The 99 Communcation Accuracy: 80.485 Method: fedprox
+[98.03, 91.68, 80.49, 51.74]
