@@ -2,10 +2,6 @@ fedprox_20_fl_digits_100_10
 {'mnist': 6, 'syn': 7, 'usps': 4, 'svhn': 3}
 ['mnist' 'syn' 'usps' 'mnist' 'syn' 'syn' 'syn' 'syn' 'usps' 'syn' 'usps'
  'svhn' 'mnist' 'syn' 'svhn' 'mnist' 'mnist' 'mnist' 'svhn' 'usps']
-Using downloaded and verified file: D:/Users/CYChiou/LargeData/Work/Dataset/DomainAdaption/FL_Digits/train_32x32.mat
-Using downloaded and verified file: D:/Users/CYChiou/LargeData/Work/Dataset/DomainAdaption/FL_Digits/train_32x32.mat
-Using downloaded and verified file: D:/Users/CYChiou/LargeData/Work/Dataset/DomainAdaption/FL_Digits/train_32x32.mat
-Using downloaded and verified file: D:/Users/CYChiou/LargeData/Work/Dataset/DomainAdaption/FL_Digits/test_32x32.mat
 The 0 Communcation Accuracy: 13.615 Method: fedprox
 [11.54, 13.15, 19.57, 10.2]
 The 1 Communcation Accuracy: 25.382 Method: fedprox
