@@ -38,7 +38,7 @@ def parse_args():
     parser.add_argument('--parti_num', type=int, default=10, help='The Number for Participants')
 
     parser.add_argument('--seed', type=int, default=0, help='The random seed.')
-    parser.add_argument('--rand_dataset', type=bool, default=True, help='The random seed.')
+    parser.add_argument('--rand_dataset', default=False, help='Use random dataset.', action="store_true")
 
     parser.add_argument('--model', type=str, default='fpl',  # moon fedinfonce
                         help='Model name.', choices=get_all_models())
